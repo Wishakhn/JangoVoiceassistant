@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    >
+    <ImageView
+        android:id="@+id/backlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/lionassistant"
+        android:alpha="0.3"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:id="@+id/titletext"
+        android:text="JANGO \n VOICE ASSTISTANT"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:fontFamily="sans-serif-light"
+        android:padding="15dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/textnote_background"
+        android:shadowDy="3"
+        android:shadowDx="3"
+        android:shadowRadius="5"
+        android:shadowColor="@color/silver"/>
+
+</RelativeLayout>

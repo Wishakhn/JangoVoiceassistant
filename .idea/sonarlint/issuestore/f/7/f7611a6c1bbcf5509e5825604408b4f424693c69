@@ -1,0 +1,8 @@
+
+Fsquid:S1905X"(Remove this unnecessary cast to "float".(”ö»š8ĞÜÖ˜û-
+squid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œªª8 Õà˜û-
+Ksquid:S1905Z"(Remove this unnecessary cast to "float".(Â¡Çıüÿÿÿÿ8ĞÜÖ˜û-
+qsquid:S00116"RRename this field "tts_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥É8÷…÷—û-
+]"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×ö³–úÿÿÿÿ8ĞÜÖ˜û-
+Ÿsquid:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êÎ™€8 Õà˜û-
+osquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8ĞÜÖ˜û-

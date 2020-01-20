@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JANGO</string>
+    <string name="welcome_note">Welcome \n to your own JANGO Voice Assistant \n you can
+        speak anything to write \n Or \n say Next to move next \n Thank you.
+    </string>
+    <string name="welcome_i_am_jango">WELCOME !! \n to Jango\'s Land, I am your new  \n voice assistant JANGO \n How Can I help you?</string>
+</resources>

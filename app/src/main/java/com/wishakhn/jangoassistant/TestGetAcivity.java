@@ -1,4 +1,4 @@
-package com.sriyanksiddhartha.speechtotext;
+package com.wishakhn.jangoassistant;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -17,7 +17,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.Locale;
 
-import static com.sriyanksiddhartha.speechtotext.PreferenceManager.saveTargetClass;
+import static com.wishakhn.jangoassistant.PreferenceManager.saveTargetClass;
+
 
 public class TestGetAcivity extends AppCompatActivity {
     TextToSpeech tts;

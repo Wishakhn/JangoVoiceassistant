@@ -1,4 +1,4 @@
-package com.sriyanksiddhartha.speechtotext;
+package com.wishakhn.jangoassistant;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

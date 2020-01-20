@@ -1,4 +1,4 @@
-package com.sriyanksiddhartha.speechtotext;
+package com.wishakhn.jangoassistant;
 
 import android.content.Intent;
 import android.graphics.Color;
